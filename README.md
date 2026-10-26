@@ -10,7 +10,7 @@ MBA-qualified analytics practitioner building reproducible workflows to turn raw
 ## Featured portfolio roadmap
 | Project | Demonstrates | Status |
 | --- | --- | --- |
-| [Sports Analytics Dashboard](https://github.com/suntzu2308-bit/sports-analytics-dashboard) · [Live demo](https://sports-analytics-dash.streamlit.app) | Python/SQL KPIs, interactive Streamlit charts and CI | Live demo published |
+| [Sports Analytics Dashboard](https://github.com/suntzu2308-bit/sports-analytics-dashboard) · [Live demo](https://sports-analytics-dashboard-zuitqrryo6iwz4quwkkyts.streamlit.app/) | Python/SQL KPIs, interactive Streamlit charts and CI | Live demo published |
 | [AML Transaction Monitoring](https://github.com/suntzu2308-bit/aml-transaction-monitoring) · [Live demo](https://aml-transaction-monitoring-ygmghh7wwlxhw3eeccywcw.streamlit.app/) | Python/SQL monitoring, alert triage, interactive Streamlit dashboard and CI | Live demo published |
 | [Blockchain Wallet Risk Analysis](https://github.com/suntzu2308-bit/blockchain-wallet-risk-analysis) · [Live demo](https://blockchain-wallet-risk-analysis-ve5ty6mxctevmkvhogjvxl.streamlit.app/) | Python/SQL directed wallet network, interactive Streamlit explorer and CI | Live demo published |
 | UFC Performance Analysis | Statistical analysis and validation with nonproprietary data | Planned |
