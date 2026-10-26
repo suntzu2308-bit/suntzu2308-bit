@@ -10,8 +10,8 @@ MBA-qualified analytics practitioner building reproducible workflows to turn raw
 ## Featured portfolio roadmap
 | Project | Demonstrates | Status |
 | --- | --- | --- |
-| [Sports Analytics Dashboard](https://github.com/suntzu2308-bit/sports-analytics-dashboard) | Python/SQL KPIs, visualization and reporting | In development |
-| [AML Transaction Monitoring](https://github.com/suntzu2308-bit/aml-transaction-monitoring) | Synthetic transactions, SQL rules and Python triage | In development |
+| [Sports Analytics Dashboard](https://github.com/suntzu2308-bit/sports-analytics-dashboard) · [Live demo](https://sports-analytics-dash.streamlit.app) | Python/SQL KPIs, interactive Streamlit charts and CI | Live demo published |
+| [AML Transaction Monitoring](https://github.com/suntzu2308-bit/aml-transaction-monitoring) | Synthetic transactions, SQL rules and Python triage | Code and tests published |
 | Blockchain Wallet Risk Analysis | Graph analysis and explainable wallet risk indicators | Planned |
 | UFC Performance Analysis | Statistical analysis and validation with nonproprietary data | Planned |
 | Sports Trends ETL | API ingestion, cleaning and scheduled reporting | Planned |
