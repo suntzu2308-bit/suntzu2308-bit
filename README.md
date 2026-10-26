@@ -1,16 +1,28 @@
-## Hi there 👋
+# Frank Meyer | Data Analytics • Business Intelligence • Financial Risk
 
-<!--
-**suntzu2308-bit/suntzu2308-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MBA-qualified analytics practitioner building reproducible workflows to turn raw data into decisions. Experience includes sports analytics, dashboards, automated data pipelines, API integrations, KPI reporting, and statistical modeling. Currently expanding into blockchain intelligence, AML/KYC, and financial crime analytics.
 
-Here are some ideas to get you started:
+## Technical toolkit
+- **Analytics:** Python, SQL, statistical analysis, KPI reporting, visualization
+- **Data engineering:** Google Apps Script, API integrations, ETL, validation, automation
+- **Risk analytics interests:** transaction monitoring, explainable alerts, blockchain wallet networks, anomaly detection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured portfolio roadmap
+| Project | Demonstrates | Status |
+| --- | --- | --- |
+| [Sports Analytics Dashboard](https://github.com/suntzu2308-bit/sports-analytics-dashboard) | Python/SQL KPIs, visualization and reporting | In development |
+| [AML Transaction Monitoring](https://github.com/suntzu2308-bit/aml-transaction-monitoring) | Synthetic transactions, SQL rules and Python triage | In development |
+| Blockchain Wallet Risk Analysis | Graph analysis and explainable wallet risk indicators | Planned |
+| UFC Performance Analysis | Statistical analysis and validation with nonproprietary data | Planned |
+| Sports Trends ETL | API ingestion, cleaning and scheduled reporting | Planned |
+| Financial Risk Dashboard | Risk KPIs and anomaly detection | Planned |
+
+*Projects marked planned are not completed; linked repositories may not yet be published.*
+
+## Analytical approach
+Define measurable business questions → validate data provenance and quality → build reproducible workflows → communicate findings and limitations.
+
+## Career focus
+Data Analyst · Business Intelligence Analyst · FinTech Data Analyst · Blockchain Analyst · AML/KYC Analyst · Financial Crime / Risk Analyst
+
+[Browse repositories](https://github.com/suntzu2308-bit?tab=repositories)
