@@ -1,28 +1,57 @@
-# Frank Meyer | Data Analytics • Business Intelligence • Financial Risk
+# Frank Meyer | Data Analyst · Business Intelligence · Financial Risk Analytics
 
-MBA-qualified analytics practitioner building reproducible workflows to turn raw data into decisions. Experience includes sports analytics, dashboards, automated data pipelines, API integrations, KPI reporting, and statistical modeling. Currently expanding into blockchain intelligence, AML/KYC, and financial crime analytics.
+**MBA | Python · SQL · Streamlit · Data Visualization · ETL**
 
-## Technical toolkit
-- **Analytics:** Python, SQL, statistical analysis, KPI reporting, visualization
-- **Data engineering:** Google Apps Script, API integrations, ETL, validation, automation
-- **Risk analytics interests:** transaction monitoring, explainable alerts, blockchain wallet networks, anomaly detection
+I build reproducible analytics workflows that turn structured data into clear KPIs, interactive dashboards, and auditable decision support. My portfolio spans sports performance analysis, transaction-monitoring demonstrations, and blockchain wallet-network analysis.
 
-## Featured portfolio roadmap
-| Project | Demonstrates | Status |
-| --- | --- | --- |
-| [Sports Analytics Dashboard](https://github.com/suntzu2308-bit/sports-analytics-dashboard) · [Live demo](https://sports-analytics-dashboard-zuitqrryo6iwz4quwkkyts.streamlit.app/) | Python/SQL KPIs, interactive Streamlit charts and CI | Live demo published |
-| [AML Transaction Monitoring](https://github.com/suntzu2308-bit/aml-transaction-monitoring) · [Live demo](https://aml-transaction-monitoring-ygmghh7wwlxhw3eeccywcw.streamlit.app/) | Python/SQL monitoring, alert triage, interactive Streamlit dashboard and CI | Live demo published |
-| [Blockchain Wallet Risk Analysis](https://github.com/suntzu2308-bit/blockchain-wallet-risk-analysis) · [Live demo](https://blockchain-wallet-risk-analysis-ve5ty6mxctevmkvhogjvxl.streamlit.app/) | Python/SQL directed wallet network, interactive Streamlit explorer and CI | Live demo published |
-| UFC Performance Analysis | Statistical analysis and validation with nonproprietary data | Planned |
-| Sports Trends ETL | API ingestion, cleaning and scheduled reporting | Planned |
-| Financial Risk Dashboard | Risk KPIs and anomaly detection | Planned |
+**Career interests:** Data Analyst · BI Analyst · FinTech Analytics · Blockchain Analytics · AML/KYC · Financial Crime & Risk Analytics
 
-*Projects marked planned are not completed; linked repositories may not yet be published.*
+## Featured projects
 
-## Analytical approach
-Define measurable business questions → validate data provenance and quality → build reproducible workflows → communicate findings and limitations.
+### 1. AML Transaction Monitoring
+**[Live dashboard](https://aml-transaction-monitoring-ygmghh7wwlxhw3eeccywcw.streamlit.app/) · [Code and screenshots](https://github.com/suntzu2308-bit/aml-transaction-monitoring#dashboard-screenshots)**
 
-## Career focus
-Data Analyst · Business Intelligence Analyst · FinTech Data Analyst · Blockchain Analyst · AML/KYC Analyst · Financial Crime / Risk Analyst
+- Python/SQL transaction monitoring and illustrative alert indicators
+- Interactive alert queue, filters, investigation preview, and CSV export
+- Automated tests and SQL/Python validation using **synthetic transactions**
+- **Scope:** Educational prototype; alerts are not verified financial-crime findings
 
-[Browse repositories](https://github.com/suntzu2308-bit?tab=repositories)
+### 2. Blockchain Wallet Risk Analysis
+**[Live dashboard](https://blockchain-wallet-risk-analysis-ve5ty6mxctevmkvhogjvxl.streamlit.app/) · [Code and screenshots](https://github.com/suntzu2308-bit/blockchain-wallet-risk-analysis#dashboard-screenshots)**
+
+- Directed wallet-transfer network analysis and explainable graph proximity indicators
+- Interactive network visualization, wallet metrics, investigation view, and export
+- Python/SQL workflow with automated tests using **fabricated transfers and labels**
+- **Scope:** Demonstration of analytical methods, not real-world wallet attribution
+
+### 3. Sports Analytics Dashboard
+**[Live dashboard](https://sports-analytics-dashboard-zuitqrryo6iwz4quwkkyts.streamlit.app/) · [Code and screenshots](https://github.com/suntzu2308-bit/sports-analytics-dashboard#dashboard-screenshots)**
+
+- Python/SQL team-performance KPIs and reproducible aggregations
+- Interactive Streamlit filters, charts, game logs, and CSV export
+- Automated tests including SQL-to-Python KPI parity using **fabricated game data**
+- **Scope:** Descriptive portfolio example, not a predictive betting model
+
+## Technical skills
+
+| Area | Tools and methods |
+| --- | --- |
+| Analytics and reporting | Python, SQL, pandas, KPI design, exploratory analysis, dashboards |
+| Applications and visualization | Streamlit, data tables, interactive charts, CSV exports |
+| Data workflows | Google Sheets, Apps Script, API integrations, ETL, data validation |
+| Engineering practices | GitHub, automated tests, GitHub Actions, reproducible pipelines |
+| Domain applications | Sports analytics, financial-risk indicators, transaction monitoring, directed wallet graphs |
+
+## How I work
+
+**Frame the question → validate the data → calculate transparent metrics → test the results → communicate decisions and limitations.**
+
+## In development
+
+- **UFC Performance Analysis:** Public-safe statistical portfolio demonstration
+- **Sports Trends ETL:** Data ingestion, quality checks, and scheduled reporting
+- **Financial Risk Dashboard:** Risk KPIs and anomaly-analysis demonstrations
+
+*These are planned projects, not completed deliverables. Featured projects use synthetic data and do not disclose confidential information or proprietary models.*
+
+[Explore all repositories](https://github.com/suntzu2308-bit?tab=repositories)
